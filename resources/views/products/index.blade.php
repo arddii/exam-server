@@ -1,0 +1,1 @@
+<pre>{{ $products->toJson() }}</pre>
